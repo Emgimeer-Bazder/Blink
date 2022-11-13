@@ -18,5 +18,6 @@ void setup() {
 // the loop routine runs over and over again forever:
 void loop() {
   Serial.println("Hello World from Eric Pazder");     // Print out required information 
+  Serial.println("Hello World from your name here");     // Print out required information 
   delay(10);                                          // delay in between reads for stability
 }
