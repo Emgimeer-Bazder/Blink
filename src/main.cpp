@@ -8,8 +8,8 @@
 
 #include "Arduino.h"                                        //Only part of platform io different from arduino ide
 
-
-
+//:)
+//:(
 // the setup routine runs once when you press reset:
 void setup() {
   Serial.begin(9600);                                 // initialize serial communication at 9600 bits per second:
